@@ -40,7 +40,7 @@ print " "
 
 fromaddr = "iottohome001@gmail.com"
 toaddr = "leandrodmoreira@gmail.com"
-passwd = "Iot@1982"
+passwd = "*******"
  
 msg = MIMEMultipart()
 msg['From'] = fromaddr
